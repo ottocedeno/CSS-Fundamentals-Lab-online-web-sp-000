@@ -32,5 +32,5 @@ section#details {
 }
 
 section#details div {
-  display: block;
+  float: left;
 }
