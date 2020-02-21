@@ -29,5 +29,8 @@ nav a {
 
 section#details {
   display: block;
-  
+}
+
+section#details div {
+  display: block;
 }
